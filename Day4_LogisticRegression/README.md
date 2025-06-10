@@ -1,4 +1,4 @@
-# 📘 Logistic Regression – Theory (Day 3)
+# 📘 Logistic Regression – Theory (Day 4)
 
 ## 🔹 What is Logistic Regression?
 - Logistic Regression is a **supervised machine learning algorithm** used for **binary classification** problems.
