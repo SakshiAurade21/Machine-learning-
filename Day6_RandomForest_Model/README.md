@@ -96,38 +96,4 @@ Then:
 ```math
 Gini = 1 - (0.6)² - (0.4)² = 0.48
 
-
-🟢 Summary — Points to Remember
-Feature	Description
-Model Type	Ensemble of Decision Trees
-Technique	Bagging + Feature Randomness
-Output	Majority Voting or Averaging
-Accuracy	✅ High
-Interpretability	❌ Less than single decision tree
-Overfitting	❌ Less than single tree
-
-📝 Ready for Coding?
-We’ll implement both versions:
-
-Classification – Titanic Dataset (RandomForestClassifier)
-
-Regression – Student Performance Dataset (RandomForestRegressor)
-
-You’ll practice:
-
-Feature selection
-
-Model fitting
-
-Predictions
-
-Accuracy / Evaluation metrics
-
-Visualization
-
-📚 Dataset Ideas for Practice
-Dataset	Task	Link
-Titanic Dataset	Classification (Survived or Not)	🔗 Kaggle Titanic
-Student Performance	Regression (Predict Marks)	🔗 Kaggle Student Performance
-House Prices	Regression (Predict Sale Price)	🔗 House Prices Dataset
-Loan Prediction	Classification	🔗 Loan Data
+__________________________________________________________________________________
